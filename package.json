@@ -1,5 +1,5 @@
 {
-  "name": "pm2-git-hook",
+  "name": "pm2-git-hook-fe",
   "version": "1.0.0",
   "description": "git webhooks for pm2",
   "main": "src/index.js",
