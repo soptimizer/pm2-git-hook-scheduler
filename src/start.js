@@ -18,7 +18,7 @@ function startServer(config) {
   config = {
     command:      config.command,
     branch:       config.branch || 'master',
-    port:         config.port || 9000,
+    port:         config.port || 9001,
     protocol:     config.protocol || 'http',
     sslKeyPath:   config.sslKeyPath,
     sslCertPath:  config.sslCertPath,
